@@ -2,10 +2,8 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Sobre](#about)
+- [Conhecendo o Projeto](#getting_started)
 
 ## About <a name = "about"></a>
 
@@ -19,7 +17,7 @@ Aproveitei e fiz também uma versão minha, como se o próprio usuário ainda n�
 
 Vamos primeiro a versão seguindo os vídeos da DIO
 ### Versão Desktop 
-![alt text](https://github.com/Arthur-Matias/Recriando-A-Pagina-inicial-do-instagram_DIO/blob/master/assets/gitImgs/DIO_PC.png?raw=true)
+![alt text](https://github.com/Arthur-Matias/Recriando-A-Pagina-inicial-do-instagram_DIO/blob/master/assets/gitImgs/DIO_PC.PNG?raw=true)
 ### Versão Mobile 
 ![alt text](https://github.com/Arthur-Matias/Recriando-A-Pagina-inicial-do-instagram_DIO/blob/master/assets/gitImgs/DIO_Responsive.png?raw=true)
 
