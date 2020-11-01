@@ -5,7 +5,7 @@
 - [Sobre](#about)
 - [Conhecendo o Projeto](#getting_started)
 
-## About <a name = "about"></a>
+## Sobre <a name = "about"></a>
 
 Recriando a Landing page do instagram seguindo vídeo aulas da DIO (Digital Innovation One).
 
