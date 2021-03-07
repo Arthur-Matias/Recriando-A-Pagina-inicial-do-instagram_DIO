@@ -1,4 +1,4 @@
-# Project Title
+# Instagram Clone
 
 ## Table of Contents
 
